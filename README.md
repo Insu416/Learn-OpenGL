@@ -1,2 +1,2 @@
-# Learn-OpenGL
+# LearnOpenGL
 Learn OpenGL Study Code Sample
